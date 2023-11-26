@@ -7,7 +7,7 @@
 body{
     width: 100%; 
     background-repeat: no-repeat;
-    background-image:url("/bg.jpg");
+    background-image:url("bg.jpg");
     background-size: cover;
     background-position: center;
     backdrop-filter: blur(5px);
@@ -41,7 +41,7 @@ input[type=text]{
     width: 100%;
     margin-right: 2em;
     padding: 15px 50px;
-    /* font-size: 1rem; */
+    font-size: 1rem; */
     /* background-color: black; */
 }
 .search-icon img{
