@@ -16,7 +16,9 @@ body{
     
 }   
 
-
+.nav-link {
+    color:#fff;
+}
 
 .card{
     box-shadow: 10px 14px 2px 1px rgba(89, 71, 227, 0.2);
